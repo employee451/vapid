@@ -1,12 +1,12 @@
 {
-  "name": "@vapid/cli",
+  "name": "employee451-vapid",
   "version": "0.9.4",
   "license": "MIT",
   "description": "A template-driven content management system",
-  "repository": "vapid/vapid",
-  "author": "Scott Robbin <scott@vapid.com>",
+  "repository": "employee451/vapid",
+  "author": "Aske Hippe Brun <mail@askehippebrun.com>",
   "bin": {
-    "vapid": "./bin/cli.js"
+    "employee451-vapid": "./bin/cli.js"
   },
   "scripts": {
     "lint": "eslint bin lib test",
